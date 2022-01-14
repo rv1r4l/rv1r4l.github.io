@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## rv1r4l's blog site
 
-You can use the [editor on GitHub](https://github.com/rv1r4l/rv1r4l.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can find my CTF writeups and other random info I want to put here.
 
 ### Markdown
 
