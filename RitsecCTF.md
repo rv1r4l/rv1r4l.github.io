@@ -37,4 +37,4 @@ there is a session token that looks like its been encoded in base64.
 
 ![Image of Sessions](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/Screenshot%20from%202021-04-11%2020-23-40.png)
 
-After putting this through a base64 decryptor, we get the flag, RS{0nly_One_s3ssion_tok3n}.
+After putting this through a base64 decoder, we get the flag, RS{0nly_One_s3ssion_tok3n}.
