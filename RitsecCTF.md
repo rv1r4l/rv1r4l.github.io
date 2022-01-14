@@ -23,7 +23,7 @@ values. Putting this into a decimal to ASCII value converter gives us the alphab
 
 Challenge 2 (WEB) "Sessions"
 
-![Image of Sessions](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/Screenshot%20from%202021-04-11%2020-22-33.png)
+![Image of Sessions](https://raw.githubusercontent.com/rv1r4l/rv1r4l.github.io/main/assets/images/SessionsRitsec.png)
 
 
 At first, this challenge seems a bit off, since we just get a login screen and nothing else.
