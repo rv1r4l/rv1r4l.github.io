@@ -2,9 +2,10 @@
 
 Here you can find my CTF writeups and other random info I want to put here.
 
-### Markdown
+### CTF Writeup Links
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+RitsecCTF 2021
+https://rv1r4l.github.io/RitsecCTF
 
 ```markdown
 Syntax highlighted code block
