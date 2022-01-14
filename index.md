@@ -4,9 +4,8 @@ Here you can find my CTF writeups and other random info I want to put here.
 
 ### CTF Writeup Links
 
-#RitsecCTF 2021
 
-[Link](https://rv1r4l.github.io/RitsecCTF)
+[RitsecCTF 2021](https://rv1r4l.github.io/RitsecCTF)
 
 ```markdown
 Syntax highlighted code block
