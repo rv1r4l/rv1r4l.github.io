@@ -29,7 +29,7 @@ Challenge 2 (WEB) "Sessions"
 At first, this challenge seems a bit off, since we just get a login screen and nothing else.
 After looking at the source code, we can see a comment that lists the credentials, "iroh:iroh".
 
-![Image of Sessions](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/iroh.png)
+![Image of Sessions](https://raw.githubusercontent.com/rv1r4l/rv1r4l.github.io/main/assets/images/iroh.png)
 
 After logging in, we get 2 different directories we can go to. After a lot of searching, it seems really useless.
 Knowing that the challenge name is "sessions", it prompts us to look into the network tab. After closer inspection, 
