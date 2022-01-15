@@ -2,7 +2,7 @@
 
 Here you can find my CTF writeups and other random info I want to put here.
 
-![Alt Text](https://wifflegif.com/gifs/5866-cyberpunk-surrogate-gif)
+![Alt Text](https://64.media.tumblr.com/tumblr_m59fm2dR9S1qk9x07o1_500.gif)
 ### CTF Writeup Links
 
 [RitsecCTF 2021](https://rv1r4l.github.io/RitsecCTF)
