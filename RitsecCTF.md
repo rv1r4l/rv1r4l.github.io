@@ -3,7 +3,7 @@ A description for challenges "snek" and "Sessions"
 
 Challenge 1 (BIN/REV) "snek"
 
-![Image of snek](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/Screenshot%20from%202021-04-11%2020-24-48.png)
+![Image of snek](https://raw.githubusercontent.com/rv1r4l/rv1r4l.github.io/main/assets/images/snek.png)
 
 
 This one's pretty simple, when viewing the challenge, it gives you something that seems like
@@ -15,7 +15,7 @@ Since bytecode can be converted from a .pyc back into a .py file, I used a tool 
 ```
 uncompyle6 snek.pyc
 ```
-![Image of snekCode](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/Screenshot%20from%202021-04-11%2020-25-42.png)
+![Image of snekCode](https://raw.githubusercontent.com/rv1r4l/rv1r4l.github.io/main/assets/images/snekcode.png)
 
 After examining the code, we see an odd list of numbers, which actually turn out of be ASCII 
 values. Putting this into a decimal to ASCII value converter gives us the alphabet and the flag, RS{all_hi$$_and_n0_bit3}.
@@ -35,6 +35,6 @@ After logging in, we get 2 different directories we can go to. After a lot of se
 Knowing that the challenge name is "sessions", it prompts us to look into the network tab. After closer inspection, 
 there is a session token that looks like its been encoded in base64.
 
-![Image of Sessions](https://github.com/rv1ral/Ritsec-2021-CTF-Writeup/blob/main/Screenshot%20from%202021-04-11%2020-23-40.png)
+![Image of Sessions](https://raw.githubusercontent.com/rv1r4l/rv1r4l.github.io/main/assets/images/cookiesesh.png)
 
 After putting this through a base64 decoder, we get the flag, RS{0nly_One_s3ssion_tok3n}.
